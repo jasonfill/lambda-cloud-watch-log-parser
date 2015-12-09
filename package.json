@@ -1,7 +1,7 @@
 {
   "name": "lambda-cloud-watch-log-parser",
   "description": "Parses event data from cloud watch logs.",
-  "version": "0.0.1",
+  "version": "0.0.9",
   "private": false,
   "dependencies": {
     "async": "0.2.10",
@@ -21,5 +21,29 @@
   "engines": {
     "node": "0.10.x",
     "npm": "1.3.x"
-  }
+  },
+  "gitHead": "14d0afa5e51eef168f82732c9741dd2440c7b6d4",
+  "_id": "lambda-cloud-watch-log-parser@0.0.9",
+  "scripts": {},
+  "_shasum": "cd771daefc891d6c12bd694bdc7d4cd3d35aba2b",
+  "_from": "lambda-cloud-watch-log-parser@0.0.x",
+  "_npmVersion": "3.3.8",
+  "_nodeVersion": "0.10.17",
+  "_npmUser": {
+    "name": "jasonfill",
+    "email": "jasonfill@gmail.com"
+  },
+  "dist": {
+    "shasum": "cd771daefc891d6c12bd694bdc7d4cd3d35aba2b",
+    "tarball": "http://registry.npmjs.org/lambda-cloud-watch-log-parser/-/lambda-cloud-watch-log-parser-0.0.9.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "jasonfill",
+      "email": "jasonfill@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/lambda-cloud-watch-log-parser/-/lambda-cloud-watch-log-parser-0.0.9.tgz",
+  "readme": "ERROR: No README data found!"
 }
